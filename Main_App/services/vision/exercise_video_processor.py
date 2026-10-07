@@ -1,5 +1,5 @@
 
-Exercise video processor · PY
+
 import os
 import cv2
 import av
