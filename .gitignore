@@ -11,9 +11,10 @@ venv/
 Thumbs.db
 
 # Database
-Main App/data.db
+Main_App/data.db
 
 # Logs
 *.log.env
 .streamlit/secrets.toml
-Main App/.streamlit/secrets.toml
+Main_App/.streamlit/secrets.toml
+Main App/
